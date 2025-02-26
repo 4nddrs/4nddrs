@@ -17,7 +17,6 @@ Andrés</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 - :computer: I am a Systems Engineering student with a passion for `Cybersecurity`, `Linux`, `Python`, and `Web Development`. I'm also diving into `Game Development` in `Unity`
 - :student: I’m currently learning `Cibersecurity` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://4nddrs.netlify.app/).
 <br>
 
