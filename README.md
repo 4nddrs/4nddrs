@@ -1,27 +1,136 @@
-<h1 align="center"><b>Hey, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Andrés</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>Hey, I'm <a href="https://4nddrs.netlify.app/" target="_blank">Andrés</a></b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8AB4F8&size=30&center=true&vCenter=true&width=700&height=50&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast+%F0%9F%94%91;Linux+Fan+%F0%9F%90%A7;Passionate+Lifelong+Learner+%F0%9F%93%9A;Exploring+the+World+of+Tech">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8AB4F8&size=24&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast+%F0%9F%94%91;Linux+Fan+%F0%9F%90%A7;Terminal+Lover+%F0%9F%92%BB;Passionate+Lifelong+Learner+%F0%9F%93%9A">
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/4nddrs/4nddrs/main/assets/terminal-header.svg" alt="terminal-banner" width="100%"/>
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Junior en Ingeniería de Sistemas @ [Univalle](https://www.univalle.edu/)
+- 🔐 Apasionado por la ciberseguridad, Linux y la línea de comandos
+- 🐍 Programador en Python, curioso por la automatización
+- 🎮 Explorando el desarrollo de videojuegos con Unity
+- 🛠️ Minimalista, terminal-lover, obsesionado con la eficiencia
+- 🌍 Visita mi web: [4nddrs.netlify.app](https://4nddrs.netlify.app/)
+
+---
+
+## 🧰 Tech Toolbox
+
+<table align="center" width="100%" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Languages</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=python,typescript,js,cs,dart,php,bash,markdown,pytorch,sqlite,html,css&perline=4" alt="Lenguajes"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🧱 Frameworks & Libraries</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,bootstrap,fastapi,flask,laravel,dotnet,unity,astro&perline=4" alt="Frameworks"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🗄️ Databases</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,cassandra,mongodb,firebase&perline=3" alt="Bases de Datos"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🔧 Dev Tools</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,nodejs,npm,pnpm,powershell,postman,vite&perline=5" alt="Herramientas"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Design & Productivity</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=figma,notion,obsidian&perline=6" alt="Diseño"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🧑‍💻 IDEs</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,vim,sublime,androidstudio,arduino,blender&perline=4" alt="IDEs"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🖥️ Operating Systems</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian,kali,windows&perline=6" alt="Sistemas"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>📚 Learning</h3>
+      <p>
+        <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=flutter,solidity&perline=6" alt="Learning"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4nddrs&show_icons=true&hide_border=true&bg_color=0A192F&title_color=FFCC66&text_color=B3E1FF&icon_color=C2FFDF" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nddrs&layout=compact&hide_border=true&bg_color=0A192F&title_color=FFCC66&text_color=B3E1FF" width="48%">
 </p>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/v6Izd1Xt542xG/giphy.gif" width = 250px></picture>
+---
 
-<br>
+## 🧭 Terminal Feed
 
-- :school: I am a `Junior` at [Computer Systems Engineering](https://www.univalle.edu/wp-content/uploads/2023/06/TRIP-ISI.pdf) at [Univalle](https://www.univalle.edu/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a Systems Engineering student with a passion for `Cybersecurity`, `Linux`, `Python`, and `Web Development`. I'm also diving into `Game Development` in `Unity`
-- :student: I’m currently learning `Cibersecurity` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://4nddrs.netlify.app/).
-<br>
+```bash
+> uname -a
+Linux 4nddrs.dev 6.4.0-arch #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
+```
+> whoami
+andres
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=4nddrs&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=8AB4F8&icon_color=8AB4F8&text_color=AFBFC8&bg_color=1A1A2E" alt="4nddrs Github Stats">
-<br />
-<br />
-
+> echo "Always learning, always building."
+Always learning, always building.
+📫 Reach Me
+<div align="center">
+</div>
+```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer"/> </p>
