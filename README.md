@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="4nddrs.png" alt="4nddrs Banner" />
+</p>
+
 <h1 align="center">
   <b>Hey, I'm <a href="https://4nddrs.netlify.app/" target="_blank">Andrés</a></b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 </h1>
 
 <p align="center">
@@ -8,18 +12,11 @@
 </p>
 
 
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/4nddrs/4nddrs/main/assets/terminal-header.svg" alt="terminal-banner" width="100%"/>
-</div>
-
 ---
 
 ## 🧠 About Me
 
-- 🎓 Junior in Systems Engineering @ Univalle
+- 🎓 Junior in Systems Engineering @Univalle
 - 🔐 Passionate about cybersecurity, Linux, and the command line
 - 🐍 Python programmer, curious about automation
 - 🎮 Exploring game development with Unity
