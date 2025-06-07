@@ -4,8 +4,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8AB4F8&size=24&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Cybersecurity+Enthusiast+%F0%9F%94%91;Linux+Fan+%F0%9F%90%A7;Terminal+Lover+%F0%9F%92%BB;Passionate+Lifelong+Learner+%F0%9F%93%9A">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8AB4F8&center=true&vCenter=true&width=500&lines=Andres;4nddrs" alt="Typing animation Andres to 4nddrs" />
 </p>
+
+
 
 ---
 
@@ -17,12 +19,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Junior en Ingeniería de Sistemas @ [Univalle](https://www.univalle.edu/)
-- 🔐 Apasionado por la ciberseguridad, Linux y la línea de comandos
-- 🐍 Programador en Python, curioso por la automatización
-- 🎮 Explorando el desarrollo de videojuegos con Unity
-- 🛠️ Minimalista, terminal-lover, obsesionado con la eficiencia
-- 🌍 Visita mi web: [4nddrs.netlify.app](https://4nddrs.netlify.app/)
+- 🎓 Junior in Systems Engineering @ Univalle
+- 🔐 Passionate about cybersecurity, Linux, and the command line
+- 🐍 Python programmer, curious about automation
+- 🎮 Exploring game development with Unity
+- 🛠️ Minimalist, terminal-lover, obsessed with efficiency
+- 🌍 Visit my website: 4nddrs.netlify.app
 
 ---
 
@@ -34,7 +36,7 @@
       <h3>💻 Languages</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=python,typescript,js,cs,dart,php,bash,markdown,pytorch,sqlite,html,css&perline=4" alt="Lenguajes"/>
+          <img src="https://skillicons.dev/icons?i=python,typescript,go,cs,dart,php,bash,markdown,pytorch,js,html,css&perline=4" alt="Lenguajes"/>
         </a>
       </p>
     </td>
@@ -42,7 +44,7 @@
       <h3>🧱 Frameworks & Libraries</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,bootstrap,fastapi,flask,laravel,dotnet,unity,astro&perline=4" alt="Frameworks"/>
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,bootstrap,django,flask,laravel,dotnet,unity,astro&perline=4" alt="Frameworks"/>
         </a>
       </p>
     </td>
@@ -78,7 +80,7 @@
       <h3>🧑‍💻 IDEs</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,vim,sublime,androidstudio,arduino,blender&perline=4" alt="IDEs"/>
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,neovim,vim,sublime&perline=3" alt="IDEs"/>
         </a>
       </p>
     </td>
@@ -98,7 +100,7 @@
       <h3>📚 Learning</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=flutter,solidity&perline=6" alt="Learning"/>
+          <img src="https://skillicons.dev/icons?i=flutter,solidity,fastapi&perline=6" alt="Learning"/>
         </a>
       </p>
     </td>
