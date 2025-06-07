@@ -2,28 +2,31 @@
   <img src="4nddrs.png" alt="4nddrs Banner" />
 </p>
 
-<h1 align="center">
-  <b>Hey, I'm <a href="https://4nddrs.netlify.app/" target="_blank">Andrés</a></b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
+<h1 align="center" style="font-weight: bold; margin-bottom: 0.2em;">
+  Hey, I'm <a href="https://4nddrs.netlify.app/" target="_blank" style="color:#4AB3F4; text-decoration:none;">Andrés</a>
 </h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8AB4F8&center=true&vCenter=true&width=500&lines=Andres;4nddrs" alt="Typing animation Andres to 4nddrs" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice%20and%20Simple&font=Fira%20Code&center=true&width=440&height=60&size=20" alt="Typing animation Nice and Simple" />
+  </a>
 </p>
 
 
----
 
-## 🧠 About Me
 
-- 🎓 Junior in Systems Engineering @Univalle
-- 🔐 Passionate about cybersecurity, Linux, and the command line
-- 🐍 Python programmer, curious about automation
-- 🎮 Exploring game development with Unity
-- 🛠️ Minimalist, terminal-lover, obsessed with efficiency
-- 🌍 Visit my website: 4nddrs.netlify.app
+<h2 align="left" style="color:#8AB4F8;">🧠 About Me</h2>
 
----
+<ul style="max-width: 500px; margin: 0 auto; list-style: none; padding-left: 0; font-size: 1.1rem; line-height: 1.6; color: #cbd5e1;">
+  <li>🎓 Junior in <b>Systems Engineering</b> @Univalle</li>
+  <li>🔐 Passionate about <b>cybersecurity</b>, <b>Linux</b>, and the <b>command line</b></li>
+  <li>🐍 Python programmer, curious about automation</li>
+  <li>🎮 Exploring game development with <b>Unity</b></li>
+  <li>🛠️ Minimalist, terminal-lover, obsessed with efficiency</li>
+  <li>🌍 Visit my website: <a href="https://4nddrs.netlify.app" target="_blank" style="color:#4AB3F4; text-decoration:none;">4nddrs.netlify.app</a></li>
+</ul>
+
 
 ## 🧰 Tech Toolbox
 
@@ -104,32 +107,14 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4nddrs&show_icons=true&hide_border=true&bg_color=0A192F&title_color=FFCC66&text_color=B3E1FF&icon_color=C2FFDF" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nddrs&layout=compact&hide_border=true&bg_color=0A192F&title_color=FFCC66&text_color=B3E1FF" width="48%">
+<img align="center" 
+     src="https://github-readme-stats.vercel.app/api?username=4nddrs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=5390D9&icon_color=1E40AF&text_color=A8C0FF&bg_color=0D1117" 
+     alt="4nddrs's GitHub Stats" />
+
 </p>
 
 
-
----
-
-## 🧭 Terminal Feed
-
-```bash
-> uname -a
-Linux 4nddrs.dev 6.4.0-arch #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
-```
-> whoami
-andres
-
-> echo "Always learning, always building."
-Always learning, always building.
-📫 Reach Me
-<div align="center">
-</div>
-```
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=100&section=footer"/> </p>
