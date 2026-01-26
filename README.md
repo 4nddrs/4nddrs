@@ -22,7 +22,7 @@
   <li>🎓 Junior in <b>Systems Engineering</b> @Univalle</li>
   <li>🔐 Passionate about <b>cybersecurity</b>, <b>Linux</b>, and the <b>command line</b></li>
   <li>🐍 Python programmer, curious about automation</li>
-  <li>🎮 Exploring game development with <b>Unity</b></li>
+  <li>📄 Interested in <b>Smart Contract</b> security and Web3 architecture</li>
   <li>🛠️ Minimalist, terminal-lover, obsessed with efficiency</li>
   <li>🌍 Visit my website: <a href="https://4nddrs.netlify.app" target="_blank" style="color:#4AB3F4; text-decoration:none;">4nddrs.netlify.app</a></li>
 </ul>
@@ -36,7 +36,7 @@
       <h3>💻 Languages</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=python,typescript,go,bash&perline=4" alt="Lenguajes"/>
+          <img src="https://skillicons.dev/icons?i=python,typescript,go,bash&perline=2" alt="Lenguajes"/>
         </a>
       </p>
     </td>
@@ -54,7 +54,7 @@
       <h3>🗄️ Databases</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,firebase&perline=4" alt="Bases de Datos"/>
+          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,firebase&perline=2" alt="Bases de Datos"/>
         </a>
       </p>
     </td>
@@ -108,13 +108,8 @@
 </table>
 
 
-## 📊 GitHub Stats
+## 📊 Activity & Consistency
 
 <p align="center">
-<img align="center" 
-     src="https://github-readme-stats.vercel.app/api?username=4nddrs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=5390D9&icon_color=1E40AF&text_color=A8C0FF&bg_color=0D1117" 
-     alt="4nddrs's GitHub Stats" />
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nddrs&theme=dracula&area=true&hide_border=true&bg_color=0D1117&color=5390D9&line=1E40AF&point=A8C0FF" />
 </p>
-
-
