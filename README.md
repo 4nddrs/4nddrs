@@ -36,7 +36,7 @@
       <h3>💻 Languages</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=python,typescript,go,cs,dart,php,bash,markdown,pytorch,js,html,css&perline=4" alt="Lenguajes"/>
+          <img src="https://skillicons.dev/icons?i=python,typescript,go,bash&perline=4" alt="Lenguajes"/>
         </a>
       </p>
     </td>
@@ -44,7 +44,7 @@
       <h3>🧱 Frameworks & Libraries</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,bootstrap,django,flask,laravel,dotnet,unity,astro&perline=4" alt="Frameworks"/>
+          <img src="https://skillicons.dev/icons?i=fastapi,flask,astro,react,tailwind,pytorch&perline=3" alt="Frameworks"/>
         </a>
       </p>
     </td>
@@ -54,7 +54,7 @@
       <h3>🗄️ Databases</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,cassandra,mongodb,firebase&perline=3" alt="Bases de Datos"/>
+          <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,firebase&perline=4" alt="Bases de Datos"/>
         </a>
       </p>
     </td>
@@ -62,7 +62,7 @@
       <h3>🔧 Dev Tools</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,nodejs,npm,pnpm,powershell,postman,vite&perline=5" alt="Herramientas"/>
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,nodejs,postman,vite&perline=3" alt="Herramientas"/>
         </a>
       </p>
     </td>
@@ -72,7 +72,7 @@
       <h3>🎨 Design & Productivity</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=figma,notion,obsidian&perline=6" alt="Diseño"/>
+          <img src="https://skillicons.dev/icons?i=figma,obsidian&perline=6" alt="Diseño"/>
         </a>
       </p>
     </td>
@@ -80,7 +80,7 @@
       <h3>🧑‍💻 IDEs</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,neovim,vim,sublime&perline=3" alt="IDEs"/>
+          <img src="https://skillicons.dev/icons?i=vscode,neovim&perline=3" alt="IDEs"/>
         </a>
       </p>
     </td>
@@ -90,17 +90,17 @@
       <h3>🖥️ Operating Systems</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian,kali,windows&perline=6" alt="Sistemas"/>
+          <img src="https://skillicons.dev/icons?i=arch,debian,kali&perline=6" alt="Sistemas"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>📚 Learning</h3>
+      <h3>🚀 Current Exploration</h3>
       <p>
         <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=flutter,solidity,fastapi&perline=6" alt="Learning"/>
+          <img src="https://skillicons.dev/icons?i=solidity&perline=6" alt="Learning"/>
         </a>
       </p>
     </td>
