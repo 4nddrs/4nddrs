@@ -110,6 +110,3 @@
 
 ## 📊 Activity & Consistency
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4nddrs&theme=dracula&area=true&hide_border=true&bg_color=0D1117&color=5390D9&line=1E40AF&point=A8C0FF" />
-</p>
